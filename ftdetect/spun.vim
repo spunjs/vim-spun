@@ -1,2 +1,1 @@
-" Spun
-autocmd BufNewFile,BufReadPost *.spun filetype=spun
+au BufRead,BufNewFile *.spun set filetype=spun
