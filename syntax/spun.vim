@@ -8,7 +8,7 @@ endif
 syn case match
 
 " Keywords
-syn keyword spunKeywords click close find get include quit refresh set sleep type
+syn keyword spunKeywords click close find get include quit refresh set sleep type submit
 
 " Matches
 syn match spunComment "#.*$"
